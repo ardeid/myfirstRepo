@@ -1,1 +1,1 @@
-This is a Nonsense first github repo to test using GitHub with R Studio
+This is a nonsense first GitHub repo to test using GitHub with R Studio. 
